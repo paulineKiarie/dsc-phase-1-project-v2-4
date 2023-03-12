@@ -38,7 +38,7 @@ This project used the following
 ---
 # Data visualisation
 ![top_10_studios](images/top_10_studios.png)
-![best_performing_genres](images/best performing genres.png)
+![best_performing_genres](images/best_performing_genres.png)
 ![Return_made_on_investment](images/average_roi_per_month_of_release.png)
 
 
